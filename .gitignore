@@ -1,5 +1,6 @@
-# Mac specific
+#  specific
 .DS_Store
+backup.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
