@@ -85,3 +85,26 @@ https://coin-or.github.io/pulp/
 | Sense       | `GRB.MINIMIZE`      | `LpMinimize`    |
 | Solve       | `model.optimize()`  | `model.solve()` |
 | Value       | `var.X`             | `value(var)`    |
+
+
+## Tasks
+
+network:
+10 lines —> fehlende ergänzen
+Preisverlauf platten
+
+
+
+Nächstes treffen: nächsten Freitag, 6.2., 12:30
+Jan:
+- Nr 3 validieren
+
+Konny:
+- Fehlende Linien ergänzen 
+- Plots export zu overleaf
+- Aufgabe 2 u 3 drüberschauen, vergleichplots 
+- Prozentuelle veränderung (Erzeugung und grid) und Strompreis
+
+Philipp
+- Einleitung 
+- Kapitel 1 modell definieren
